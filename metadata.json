@@ -1,0 +1,6 @@
+{
+  "name": "Ubinow Mobility & WhatsApp Bot Suite",
+  "description": "Plataforma integral de despacho por WhatsApp con geolocalización en tiempo real, tarifas dinámicas por demanda, notificaciones de descuentos y arquitectura cloud escalable en AWS/GCP para remis, motos y taxis.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
